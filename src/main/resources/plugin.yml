@@ -1,0 +1,8 @@
+name: RandomMenu
+version: '${project.version}'
+main: com.moon.menurandom.Main
+api-version: 1.16
+authors: [ Moon ]
+description: Random GUI Menu
+commands:
+  menu:
